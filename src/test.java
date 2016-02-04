@@ -12,6 +12,7 @@ public class test
 		private static  void sayHello(String name)
 		{
 			System.out.println("ALL HAIL " + name + " !!!");
+			System.out.println("I'm a bug!145268416846asdqfAWawd")
 		}
 
 	}
