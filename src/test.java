@@ -5,7 +5,7 @@ public class test
 		public static void main(String[] args)
 		{
 			// Enter your name here
-			sayHello("Max");
+			sayHello("Vasya");
 		}
 		
 		private static  void sayHello(String name)
