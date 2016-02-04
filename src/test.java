@@ -6,6 +6,7 @@ public class test
 		{
 			// Enter your name here
 			sayHello("Vasya");
+			sayHello("Max");
 		}
 		
 		private static  void sayHello(String name)
